@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+  "installedESLint": true,
+  "parser": "babel-eslint",
+  "plugins": [
+    "react"
+  ],
+  "settings": {
+    "import/resolver": "webpack"
+  }
+}
